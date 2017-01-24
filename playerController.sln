@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "playerController.Plugins", "playerController.Plugins.csproj", "{49660CDD-AD5B-F1A0-9ADF-D563FF7D5453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "playerController", "playerController.csproj", "{80E692C0-8BC5-A697-396B-F476B7581258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "playerController.Editor", "playerController.Editor.csproj", "{9760F488-C397-553A-6A4B-42460F73542F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49660CDD-AD5B-F1A0-9ADF-D563FF7D5453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49660CDD-AD5B-F1A0-9ADF-D563FF7D5453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49660CDD-AD5B-F1A0-9ADF-D563FF7D5453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49660CDD-AD5B-F1A0-9ADF-D563FF7D5453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E692C0-8BC5-A697-396B-F476B7581258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E692C0-8BC5-A697-396B-F476B7581258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E692C0-8BC5-A697-396B-F476B7581258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E692C0-8BC5-A697-396B-F476B7581258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9760F488-C397-553A-6A4B-42460F73542F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9760F488-C397-553A-6A4B-42460F73542F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9760F488-C397-553A-6A4B-42460F73542F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9760F488-C397-553A-6A4B-42460F73542F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
